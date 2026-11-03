@@ -1,0 +1,5 @@
+tarifa,cargo_fijo,precio_kwh,vigente_desde,vigente_hasta
+T1-residencial,1200,95,2025-01-01,2025-10-07
+T1-residencial,1200,108,2025-10-08,
+T2-comercial,2400,160,2025-01-01,
+T3-industria,9800,120,2025-01-01,
